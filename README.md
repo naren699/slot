@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Ex-03 Time Table
-=======
 # Ex03 Time Table
->>>>>>> 1570281 (Success)
 ## Date: 22-04-2025
 
 ## AIM
@@ -16,7 +12,6 @@ Create a Django-admin Interface.
 Create a static folder and inert HTML code.
 
 ### STEP 3
-<<<<<<< HEAD
 Create a simple table using ```<table>``` tag in html.
 
 ### STEP 4
@@ -24,21 +19,18 @@ Add header row using ```<th>``` tag.
 
 ### STEP 5
 Add your timetable using ```<td>``` tag.
-=======
 Create a simple table using <table> tag in html.
 
 ### STEP 4
-Add header row using <th> tag.
+Add header row using ```<th>``` tag.
 
 ### STEP 5
-Add your timetable using <td> tag.
->>>>>>> 1570281 (Success)
+Add your timetable using ```<td>``` tag.
 
 ### STEP 6
 Execute the program using runserver command.
 
 ## PROGRAM
-<<<<<<< HEAD
 
 ``` html
 <html>
@@ -148,110 +140,4 @@ Execute the program using runserver command.
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
-=======
-```
-<html>
-    <body>
-        <img src="logo.png" height="100" width="560"> 
-        <table border="1" cellspacing="2" cellpadding="2">
-            <caption>SLOT TIME TABLE NARENDHIRAN.P(212224230177)</caption>
-            <tr bgcolor="red">
-                <th>Day/time</th>
-                <th>monday</th>
-                <th>tuesday</th>
-                <th>wednesday</th>
-                <th>thursday</th>
-                <th>friday</th>
-                <th>saturday</th>
-            </tr>
-            <tr>
-                <td bgcolor="yellow">8-10</td>
-                <td bgcolor="cyan" colspan="4">FREE SLOT</td>
-                <td bgcolor="cyan">C PROGROM</td>
-                <td bgcolor="cyan">FREE SLOT</td>
-            </tr>
-            <tr>
-                <td bgcolor="yellow">10-12</td>
-                <td bgcolor="cyan">OS</td>
-                <td bgcolor="cyan">WEB</td>
-                <td bgcolor="cyan">MATHS</td>
-                <td bgcolor="cyan">FREE SLOT</td>
-                <td bgcolor="cyan">C PROGRAM</td>
-                <td bgcolor="cyan">FREE SLOT</td>
-            </tr>
-            <tr>
-                <td bgcolor="yellow">12-1</td>
-                <td bgcolor="cyan" colspan="6" align="center">LUNCH</td>
-            </tr>
-            <tr>
-                <td bgcolor="yellow">1-3</td>
-                <td bgcolor="cyan">MATHS</td>
-                <td bgcolor="cyan">C PROGRAM</td>
-                <td bgcolor="cyan">MENTOR</td>
-                <td bgcolor="cyan">PQM</td>
-                <td bgcolor="cyan">MATHS</td>
-                <td bgcolor="cyan">WEB</td>
-            </tr>
-            <tr>
-                <td bgcolor="yellow">3-5</td> 
-                <td bgcolor="cyan">EDM</td>
-                <td bgcolor="cyan" colspan="4">FREE SLOT</td>
-                <td bgcolor="cyan">EDM</td>
-            </tr>
-        </table>
-        <br>
-        <table  border="1" cellpadding="2">
-            <tr>
-                <td>s.no</td>
-                <td>course code</td>
-                <td align="center">Course Name</td>
-            </tr>
-            <tr>
-                <td>1</td>
-                <td>19AI414</td>
-                <td>Fundamental of web application development </td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>19AI304</td>
-                <td>Fundamental of C programming</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>19MA220</td>
-                <td>Mathematics for AI</td>
-            </tr>
-            <tr>
-            <td>4</td>
-            <td>19AI303</td>
-            <td>Engineeing Mechanics and Product</td>
-            </tr>
-            <tr>
-                <td>5</td>
-                <td>19AI410</td>
-                <td>Intorduction to ML</td>
-            </tr>
-            <tr>
-                <td>6</td>
-                <td>19MA222</td>
-                <td>Probability and Queueing Models</td>
-            </tr>
-            <tr>
-            <td>7</td>
-            <td>ECA-M SCOFT</td>
-            <td>Mentor Meet</td>
-            </tr>
-            
-             
-        </table>
-    </body>
- </html>
-```
-
-## OUTPUT
-
-![alt text](<Screenshot 2025-04-22 204533.png>)
-
-## RESULT
-The program for creating slot timetable using basic HTML tags is executed successfully.
->>>>>>> 1570281 (Success)
+         
